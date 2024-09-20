@@ -1,6 +1,6 @@
 # Universal Wallet React Boilerplate
 
-Starter Sequence Embedded Wallet boilerplate that uses [Sequence Universal Wallet](https://docs.sequence.xyz/solutions/wallets/universal-wallet/overview) with React.
+Starter Sequence Universal Wallet boilerplate that uses [Sequence Universal Wallet](https://docs.sequence.xyz/solutions/wallets/universal-wallet/overview) with React.
 
 ## Quickstart
 
